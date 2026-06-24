@@ -3,7 +3,7 @@
 **Platform:** TryHackMe  
 **URL:** https://tryhackme.com/room/geolocatingimages  
 **Date:** 2026-06-24  
-**Last synced:** 6/24/2026, 3:39:14 PM  
+**Last synced:** 6/24/2026, 3:39:36 PM  
 
 ## Description
 
@@ -23,31 +23,37 @@ Geolocating Images
 
 ---
 
-## Task 4
+## Task 4 – Now your turn
+
+---
+
+## Task 5
+
+Where was image 2 taken?
 
 ### Questions
 
-**Q1:** *(question text not captured)*
+**Q1:** Where was image 2 taken?
 
 > **Answer:** *(not yet answered)*
 
-**Q2:** *(question text not captured)*
+**Q2:** Where was image 2 taken?
 
 > **Answer:** *(not yet answered)*
 
 **Q3:** Correct Answer
 
-> **Answer:** *No answer needed*
+> **Answer:** `Wrigleyville Sports`
 > **Hint:** Correct Answer
 
 **Q4:** Correct Answer
 
-> **Answer:** *No answer needed*
+> **Answer:** `Wrigleyville Sports`
 > **Hint:** Correct Answer
 
 **Q5:** *(question text not captured)*
 
-> **Answer:** *No answer needed*
+> **Answer:** `Wrigleyville Sports`
 
 **Q6:** Correct Answer
 
@@ -57,10 +63,6 @@ Geolocating Images
 **Q7:** Correct Answer
 
 > **Answer:** *(correct — value not captured)*
-
----
-
-## Task 5 – Now your turn
 
 ---
 
